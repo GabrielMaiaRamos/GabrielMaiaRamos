@@ -1,4 +1,7 @@
-## Olá! Me chamo Gabriel Maia Ramos!
+## 👋 Olá! Me chamo **Gabriel Maia Ramos**
 
-- 🏫 Aluno de Ciência da Computação na Universidade Federal Fluminense
-- 📖 Estudando Python..
+🎓 Estudante de **Ciência da Computação** na **Universidade Federal Fluminense (UFF)**  
+
+💻 Atualmente:  
+- 🐍 Bom nível em **Python**
+- ⚙️ Estudando **C**
